@@ -22,3 +22,8 @@ etc.
 * `predict.py` utilise model/knn.h5 pour prédire col1 du fichier `data/test/to_predict.csv` le résultat est ensuite enregistré dans un nouveau fichier : `data/test/prediction_knn.csv`.
 
 * `get_graphs.py` créé un histogramme à partir de la colonne `monthly` du fichier traité `toy_databae.csv` et l'enregistre dans rapport/image.
+
+
+# Utilisation
+
+Si on a beaucoup de script une partie utilisation avec les cas d'usage classique expliquant seulement quoi lancer peut être utile.
