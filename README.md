@@ -26,4 +26,4 @@ etc.
 
 # Utilisation
 
-Si on a beaucoup de script une partie utilisation avec les cas d'usage classique expliquant seulement quoi lancer peut être utile.
+Si vous avez beaucoup de script une partie utilisation avec les cas d'usages classiques expliquant seulement quoi lancer peut être utile.
