@@ -8,7 +8,6 @@ if __name__ == "__main__":
     # os.path.join (ici renommé osjoin) pour naviguer entre les dossiers
     path_source = osjoin(osjoin("data", "raw"), "toy_dataset.csv")
     path_result = osjoin(osjoin("data", "process"), "toy_dataset.csv")
-
     # Si data/process n'existe pas on le créé
     if not os.path.exists(osjoin("data", "process")):
         os.makedirs(osjoin("data", "process"))
